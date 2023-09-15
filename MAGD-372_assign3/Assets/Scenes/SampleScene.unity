@@ -212,7 +212,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-507746
+  m_Name: pb_Mesh31606
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -640,7 +640,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-510392
+  m_Name: pb_Mesh31566
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 1196162928}
   - component: {fileID: 1196162927}
   - component: {fileID: 1196162926}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2696,7 +2696,7 @@ GameObject:
   - component: {fileID: 1259520915}
   - component: {fileID: 1259520914}
   - component: {fileID: 1259520913}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Arch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3727,7 +3727,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-474776
+  m_Name: pb_Mesh31552
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -3983,7 +3983,7 @@ GameObject:
   - component: {fileID: 2111521406}
   - component: {fileID: 2111521405}
   - component: {fileID: 2111521404}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
